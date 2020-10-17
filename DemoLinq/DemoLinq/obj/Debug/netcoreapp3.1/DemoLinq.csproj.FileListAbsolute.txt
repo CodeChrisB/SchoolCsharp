@@ -1,0 +1,13 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\bin\Debug\netcoreapp3.1\DemoLinq.exe
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\bin\Debug\netcoreapp3.1\DemoLinq.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\bin\Debug\netcoreapp3.1\DemoLinq.runtimeconfig.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\bin\Debug\netcoreapp3.1\DemoLinq.runtimeconfig.dev.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\bin\Debug\netcoreapp3.1\DemoLinq.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\bin\Debug\netcoreapp3.1\DemoLinq.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\DemoLinq\DemoLinq\obj\Debug\netcoreapp3.1\DemoLinq.genruntimeconfig.cache

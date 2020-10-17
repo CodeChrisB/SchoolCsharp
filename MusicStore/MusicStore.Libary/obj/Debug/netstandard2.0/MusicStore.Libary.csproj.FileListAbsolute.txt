@@ -1,0 +1,9 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\bin\Debug\netstandard2.0\MusicStore.Libary.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\bin\Debug\netstandard2.0\MusicStore.Libary.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\bin\Debug\netstandard2.0\MusicStore.Libary.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\obj\Debug\netstandard2.0\MusicStore.Libary.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\obj\Debug\netstandard2.0\MusicStore.Libary.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\obj\Debug\netstandard2.0\MusicStore.Libary.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\obj\Debug\netstandard2.0\MusicStore.Libary.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\obj\Debug\netstandard2.0\MusicStore.Libary.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\MusicStore\MusicStore.Libary\obj\Debug\netstandard2.0\MusicStore.Libary.pdb

@@ -1,0 +1,13 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\bin\Debug\netcoreapp3.1\DemoLamda.exe
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\bin\Debug\netcoreapp3.1\DemoLamda.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\bin\Debug\netcoreapp3.1\DemoLamda.runtimeconfig.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\bin\Debug\netcoreapp3.1\DemoLamda.runtimeconfig.dev.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\bin\Debug\netcoreapp3.1\DemoLamda.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\bin\Debug\netcoreapp3.1\DemoLamda.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\DemoLamda\DemoLamda\obj\Debug\netcoreapp3.1\DemoLamda.genruntimeconfig.cache

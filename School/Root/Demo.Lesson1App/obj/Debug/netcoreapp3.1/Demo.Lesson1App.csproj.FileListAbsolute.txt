@@ -1,0 +1,16 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\Demo.Lesson1App.exe
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\Demo.Lesson1App.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\Demo.Lesson1App.runtimeconfig.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\Demo.Lesson1App.runtimeconfig.dev.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\Demo.Lesson1App.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\Demo.Lesson1App.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.genruntimeconfig.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\Demo.Lesson1App\obj\Debug\netcoreapp3.1\Demo.Lesson1App.csproj.CopyComplete

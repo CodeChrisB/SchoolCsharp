@@ -1,0 +1,9 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\bin\Debug\netcoreapp3.1\CommonBase.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\C Sharp\School\Root\CommonBase\obj\Debug\netcoreapp3.1\CommonBase.pdb

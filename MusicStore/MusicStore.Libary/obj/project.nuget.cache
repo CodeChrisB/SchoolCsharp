@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nx1FcWLY8K8RtsO0Qf840HK/8RV/rSJh2GCL8R7ZDPF6+TplJoW0KI/IcKEm8fpnBmPwMVmgnjk4Vu0vg7dU/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cbuch\\Daten\\HTL\\4BHIF\\C Sharp\\MusicStore\\MusicStore.Libary\\MusicStore.Libary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbuch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cbuch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
