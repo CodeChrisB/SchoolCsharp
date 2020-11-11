@@ -1,0 +1,13 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\bin\Debug\netcoreapp3.1\CsvSimpleMapper.exe
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\bin\Debug\netcoreapp3.1\CsvSimpleMapper.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\bin\Debug\netcoreapp3.1\CsvSimpleMapper.runtimeconfig.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\bin\Debug\netcoreapp3.1\CsvSimpleMapper.runtimeconfig.dev.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\bin\Debug\netcoreapp3.1\CsvSimpleMapper.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\bin\Debug\netcoreapp3.1\CsvSimpleMapper.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\CsvSimpleMapper\CsvSimpleMapper\obj\Debug\netcoreapp3.1\CsvSimpleMapper.genruntimeconfig.cache

@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CommonBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CommonBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommonBase.dll": {}
+        }
+      },
+      "MusicStore.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CommonBase": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MusicStore.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicStore.Contracts.dll": {}
+        }
+      },
+      "MusicStore.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CommonBase": "1.0.0",
+          "MusicStore.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MusicStore.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicStore.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommonBase/1.0.0": {
+      "type": "project",
+      "path": "../CommonBase/CommonBase.csproj",
+      "msbuildProject": "../CommonBase/CommonBase.csproj"
+    },
+    "MusicStore.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../MusicStore.Contracts/MusicStore.Contracts.csproj",
+      "msbuildProject": "../MusicStore.Contracts/MusicStore.Contracts.csproj"
+    },
+    "MusicStore.Logic/1.0.0": {
+      "type": "project",
+      "path": "../MusicStore.Logic/MusicStore.Logic.csproj",
+      "msbuildProject": "../MusicStore.Logic/MusicStore.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CommonBase >= 1.0.0",
+      "MusicStore.Contracts >= 1.0.0",
+      "MusicStore.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\cbuch\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.ConApp\\MusicStore.ConApp.csproj",
+      "projectName": "MusicStore.ConApp",
+      "projectPath": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.ConApp\\MusicStore.ConApp.csproj",
+      "packagesPath": "C:\\Users\\cbuch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.ConApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\cbuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\CommonBase\\CommonBase.csproj": {
+              "projectPath": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\CommonBase\\CommonBase.csproj"
+            },
+            "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.Contracts\\MusicStore.Contracts.csproj": {
+              "projectPath": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.Contracts\\MusicStore.Contracts.csproj"
+            },
+            "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.Logic\\MusicStore.Logic.csproj": {
+              "projectPath": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\MusicStore.Logic\\MusicStore.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

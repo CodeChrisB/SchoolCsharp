@@ -1,0 +1,13 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\bin\Debug\netcoreapp3.1\DemoReflection.exe
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\bin\Debug\netcoreapp3.1\DemoReflection.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\bin\Debug\netcoreapp3.1\DemoReflection.runtimeconfig.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\bin\Debug\netcoreapp3.1\DemoReflection.runtimeconfig.dev.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\bin\Debug\netcoreapp3.1\DemoReflection.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\bin\Debug\netcoreapp3.1\DemoReflection.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoReflection\DemoReflection\obj\Debug\netcoreapp3.1\DemoReflection.genruntimeconfig.cache

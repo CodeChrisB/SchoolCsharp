@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gh2jMG2MpXQuiJolyTy4utHxk9rL8pKc9IQ7Ku5fStxv3xuyGUZbrQ2CYUQxVJkEESnMtz5aG0991kZ/TLfZxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cbuch\\source\\repos\\DemoMusicStore\\CommonBase\\CommonBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbuch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cbuch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
