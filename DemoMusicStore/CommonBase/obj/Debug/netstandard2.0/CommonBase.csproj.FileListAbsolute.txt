@@ -1,0 +1,9 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\bin\Debug\netstandard2.0\CommonBase.deps.json
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\bin\Debug\netstandard2.0\CommonBase.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\bin\Debug\netstandard2.0\CommonBase.pdb
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\obj\Debug\netstandard2.0\CommonBase.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\obj\Debug\netstandard2.0\CommonBase.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\obj\Debug\netstandard2.0\CommonBase.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\obj\Debug\netstandard2.0\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\obj\Debug\netstandard2.0\CommonBase.dll
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\CommonBase\obj\Debug\netstandard2.0\CommonBase.pdb

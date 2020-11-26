@@ -1,0 +1,4 @@
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\MusicStore.ConApp\obj\Debug\netcoreapp3.1\MusicStore.ConApp.csprojAssemblyReference.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\MusicStore.ConApp\obj\Debug\netcoreapp3.1\MusicStore.ConApp.AssemblyInfoInputs.cache
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\MusicStore.ConApp\obj\Debug\netcoreapp3.1\MusicStore.ConApp.AssemblyInfo.cs
+C:\Users\cbuch\Daten\HTL\4BHIF\CSharp\SchoolCsharp\DemoMusicStore\MusicStore.ConApp\obj\Debug\netcoreapp3.1\MusicStore.ConApp.csproj.CoreCompileInputs.cache
